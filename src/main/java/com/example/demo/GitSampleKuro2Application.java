@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitSampleKuro2Application {
 
 	public static void main(String[] args) {
+		// コメント追加サンプル
 		SpringApplication.run(GitSampleKuro2Application.class, args);
 	}
 }
